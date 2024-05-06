@@ -15,6 +15,7 @@
 		37B010A92BE910BC00E3AC19 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B010A82BE910BC00E3AC19 /* ShapesBootcamp.swift */; };
 		37B010AB2BE9137600E3AC19 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B010AA2BE9137600E3AC19 /* ColorsBootcamp.swift */; };
 		37B010AD2BE917DD00E3AC19 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B010AC2BE917DD00E3AC19 /* GradientsBootcamp.swift */; };
+		37B010AF2BE91A8500E3AC19 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B010AE2BE91A8500E3AC19 /* IconsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		37B010A82BE910BC00E3AC19 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		37B010AA2BE9137600E3AC19 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		37B010AC2BE917DD00E3AC19 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
+		37B010AE2BE91A8500E3AC19 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				37B010A82BE910BC00E3AC19 /* ShapesBootcamp.swift */,
 				37B010AA2BE9137600E3AC19 /* ColorsBootcamp.swift */,
 				37B010AC2BE917DD00E3AC19 /* GradientsBootcamp.swift */,
+				37B010AE2BE91A8500E3AC19 /* IconsBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				37B0109A2BE90C0100E3AC19 /* ContentView.swift in Sources */,
 				37B010A62BE90CD200E3AC19 /* TextBootcamp.swift in Sources */,
 				37B010982BE90C0100E3AC19 /* SwiftUI_BootcampApp.swift in Sources */,
+				37B010AF2BE91A8500E3AC19 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
