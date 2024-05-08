@@ -33,7 +33,7 @@ struct BackgroundAndOverlayBootcamp: View {
                                     )
                                     .shadow(color: Color(#colorLiteral(red: 0.3647058904, green: 0.06666667014, blue: 0.9686274529, alpha: 0.5)), radius: 10, x: 5, y: 5)
                                 , alignment: .bottomTrailing)
-                    )b
+                    )
     }
 }
 
