@@ -28,6 +28,7 @@
 		37E198242BEB636600DCD1A0 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198232BEB636600DCD1A0 /* GridBootcamp.swift */; };
 		37E198262BEB673B00DCD1A0 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198252BEB673B00DCD1A0 /* SafeAreaBootcamp.swift */; };
 		37E198282BEB68E800DCD1A0 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198272BEB68E800DCD1A0 /* ButtonsBootcamp.swift */; };
+		37E1982A2BEB6B5C00DCD1A0 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198292BEB6B5C00DCD1A0 /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		37E198232BEB636600DCD1A0 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		37E198252BEB673B00DCD1A0 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		37E198272BEB68E800DCD1A0 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		37E198292BEB6B5C00DCD1A0 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */,
 				37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */,
 				37B010A52BE90CD200E3AC19 /* TextBootcamp.swift */,
+				37E198292BEB6B5C00DCD1A0 /* StateBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37E1982A2BEB6B5C00DCD1A0 /* StateBootcamp.swift in Sources */,
 				37B010AD2BE917DD00E3AC19 /* GradientsBootcamp.swift in Sources */,
 				37B010B52BE922C900E3AC19 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				37E198222BEB617800DCD1A0 /* ScrollViewBootcamp.swift in Sources */,
