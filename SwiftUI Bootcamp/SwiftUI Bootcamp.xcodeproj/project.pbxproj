@@ -22,6 +22,7 @@
 		37E198162BEB566B00DCD1A0 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */; };
 		37E198182BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */; };
 		37E1981A2BEB572D00DCD1A0 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */; };
+		37E1981E2BEB5EE600DCD1A0 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E1981D2BEB5EE600DCD1A0 /* InitializerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		37E1981D2BEB5EE600DCD1A0 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */,
 				37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */,
 				37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */,
+				37E1981D2BEB5EE600DCD1A0 /* InitializerBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				37E198182BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				37B010AB2BE9137600E3AC19 /* ColorsBootcamp.swift in Sources */,
 				37B010B32BE91FAD00E3AC19 /* FrameBootcamp.swift in Sources */,
+				37E1981E2BEB5EE600DCD1A0 /* InitializerBootcamp.swift in Sources */,
 				37B010A92BE910BC00E3AC19 /* ShapesBootcamp.swift in Sources */,
 				37B0109A2BE90C0100E3AC19 /* ContentView.swift in Sources */,
 				37B010A62BE90CD200E3AC19 /* TextBootcamp.swift in Sources */,
