@@ -21,6 +21,7 @@
 		37B010B52BE922C900E3AC19 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B010B42BE922C900E3AC19 /* BackgroundAndOverlayBootcamp.swift */; };
 		37E198162BEB566B00DCD1A0 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */; };
 		37E198182BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */; };
+		37E1981A2BEB572D00DCD1A0 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		37B010B42BE922C900E3AC19 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
+		37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				37B010B42BE922C900E3AC19 /* BackgroundAndOverlayBootcamp.swift */,
 				37E198152BEB566B00DCD1A0 /* StacksBootcamp.swift */,
 				37E198172BEB56E300DCD1A0 /* PaddingAndSpacerBootcamp.swift */,
+				37E198192BEB572D00DCD1A0 /* SpacerBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				37B010A62BE90CD200E3AC19 /* TextBootcamp.swift in Sources */,
 				37B010982BE90C0100E3AC19 /* SwiftUI_BootcampApp.swift in Sources */,
 				37E198162BEB566B00DCD1A0 /* StacksBootcamp.swift in Sources */,
+				37E1981A2BEB572D00DCD1A0 /* SpacerBootcamp.swift in Sources */,
 				37B010B12BE91DA600E3AC19 /* ImageBootcamp.swift in Sources */,
 				37B010AF2BE91A8500E3AC19 /* IconsBootcamp.swift in Sources */,
 			);
