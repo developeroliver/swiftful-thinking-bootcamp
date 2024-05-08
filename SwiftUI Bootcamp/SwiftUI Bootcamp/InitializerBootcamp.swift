@@ -48,7 +48,7 @@ struct InitializerBootcamp: View {
 
 #Preview {
     HStack {
-        InitializerBootcamp(count: 5, fruit: .apples)
+        InitializerBootcamp(count: 5, fruit: .apple)
         InitializerBootcamp(count: 50, fruit: .orange)
     }
 }
