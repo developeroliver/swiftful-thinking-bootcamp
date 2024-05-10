@@ -46,6 +46,7 @@
 		378A2DBD2BEE7B4D0060427C /* ViewThatFitsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DBC2BEE7B4D0060427C /* ViewThatFitsBootcamp.swift */; };
 		378A2DBF2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */; };
 		378A2DC12BEE7CDA0060427C /* GridViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */; };
+		378A2DC32BEE7D330060427C /* ContentUnavailableViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */; };
 		379E8CB32BED1AC30058CA8D /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB22BED1AC30058CA8D /* ModelBootcamp.swift */; };
 		379E8CB52BED1B250058CA8D /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB42BED1B250058CA8D /* ViewModelBootcamp.swift */; };
 		379E8CB72BED1BF80058CA8D /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB62BED1BF80058CA8D /* EnvironmentViewModel.swift */; };
@@ -126,6 +127,7 @@
 		378A2DBC2BEE7B4D0060427C /* ViewThatFitsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsBootcamp.swift; sourceTree = "<group>"; };
 		378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewBootcamp.swift; sourceTree = "<group>"; };
 		378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewBootcamp.swift; sourceTree = "<group>"; };
+		378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB22BED1AC30058CA8D /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB42BED1B250058CA8D /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB62BED1BF80058CA8D /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 			children = (
 				378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */,
 				378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */,
+				378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */,
 				378A2DB82BEE77D40060427C /* NativePopoverBootcamp.swift */,
 				378A2DBC2BEE7B4D0060427C /* ViewThatFitsBootcamp.swift */,
 				378A2DBA2BEE79760060427C /* AnyLayoutBootcamp.swift */,
@@ -406,6 +409,7 @@
 				379E8CB32BED1AC30058CA8D /* ModelBootcamp.swift in Sources */,
 				37E198262BEB673B00DCD1A0 /* SafeAreaBootcamp.swift in Sources */,
 				37B0109A2BE90C0100E3AC19 /* ContentView.swift in Sources */,
+				378A2DC32BEE7D330060427C /* ContentUnavailableViewBootcamp.swift in Sources */,
 				37E198202BEB5FA600DCD1A0 /* ForEachBootcamp.swift in Sources */,
 				374B03202BEB7E0700941184 /* SheetBootcamp.swift in Sources */,
 				37B010A62BE90CD200E3AC19 /* TextBootcamp.swift in Sources */,
