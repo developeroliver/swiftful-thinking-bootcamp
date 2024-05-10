@@ -20,7 +20,7 @@ struct FocusStateBootcamp: View {
         @FocusState private var fieldInFocus: OnboardingField?
 
         var body: some View {
-            VStack(spacing: 30) {
+            VStack(spacing: 30) { 
                 TextField("Add your name here...", text: $username)
                     .focused($fieldInFocus, equals: .username)
     //                .focused($usernameInFocus)
