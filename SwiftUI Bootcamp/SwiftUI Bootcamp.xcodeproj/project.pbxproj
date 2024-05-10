@@ -47,6 +47,7 @@
 		378A2DBF2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */; };
 		378A2DC12BEE7CDA0060427C /* GridViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */; };
 		378A2DC32BEE7D330060427C /* ContentUnavailableViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */; };
+		378A2DC52BEE7E7E0060427C /* ControlGroupMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378A2DC42BEE7E7E0060427C /* ControlGroupMenuBootcamp.swift */; };
 		379E8CB32BED1AC30058CA8D /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB22BED1AC30058CA8D /* ModelBootcamp.swift */; };
 		379E8CB52BED1B250058CA8D /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB42BED1B250058CA8D /* ViewModelBootcamp.swift */; };
 		379E8CB72BED1BF80058CA8D /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379E8CB62BED1BF80058CA8D /* EnvironmentViewModel.swift */; };
@@ -128,6 +129,7 @@
 		378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewBootcamp.swift; sourceTree = "<group>"; };
 		378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewBootcamp.swift; sourceTree = "<group>"; };
 		378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewBootcamp.swift; sourceTree = "<group>"; };
+		378A2DC42BEE7E7E0060427C /* ControlGroupMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB22BED1AC30058CA8D /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB42BED1B250058CA8D /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		379E8CB62BED1BF80058CA8D /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 		37B0108B2BE90C0100E3AC19 = {
 			isa = PBXGroup;
 			children = (
+				378A2DC42BEE7E7E0060427C /* ControlGroupMenuBootcamp.swift */,
 				378A2DBE2BEE7BBE0060427C /* NavigationSplitViewBootcamp.swift */,
 				378A2DC02BEE7CDA0060427C /* GridViewBootcamp.swift */,
 				378A2DC22BEE7D330060427C /* ContentUnavailableViewBootcamp.swift */,
@@ -376,6 +379,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				378A2DAD2BEE72B00060427C /* ToolbarBootcamp.swift in Sources */,
+				378A2DC52BEE7E7E0060427C /* ControlGroupMenuBootcamp.swift in Sources */,
 				379E8CB52BED1B250058CA8D /* ViewModelBootcamp.swift in Sources */,
 				378A2DAF2BEE738B0060427C /* ResizableSheetBootcamp.swift in Sources */,
 				37E1982A2BEB6B5C00DCD1A0 /* StateBootcamp.swift in Sources */,
